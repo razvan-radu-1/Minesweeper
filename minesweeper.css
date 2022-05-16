@@ -1,0 +1,56 @@
+p {
+    font-size: 17px;
+  }
+
+#winnerMessage {
+    color: black;
+    font-size: 50px;
+  }
+
+.uncovered {
+    text-align: center;
+    background-color: lightgrey;
+    border: 1px solid black;
+    width: 30px; 
+    height: 30px;
+  }
+
+  .markedMine {
+    text-align: center;
+    background-color: lightgrey;
+    border: 1px solid black;
+    width: 30px; 
+    height: 30px;
+  }
+
+  .countCell {
+    text-align: center;
+    background-color: lightgrey;
+    border: 1px solid black;
+    width: 30px; 
+    height: 30px;
+  }
+
+  .mine {
+    text-align: center;
+    background-color: lightgrey;
+    border: 1px solid black;
+    width: 30px;
+    height: 30px;
+  }
+
+  .alreadyCounted {
+    text-align: center;
+    background-color: white;
+    border: 1px solid black;
+    width: 30px; 
+    height: 30px;
+  }
+
+  .emptyCell {
+    text-align: center;
+    background-color: white;
+    border: 1px solid black;
+    width: 30px;
+    height: 30px;
+  }
